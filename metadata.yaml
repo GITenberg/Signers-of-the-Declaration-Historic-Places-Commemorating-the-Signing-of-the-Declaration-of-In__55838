@@ -1,5 +1,8 @@
 _repo: Signers-of-the-Declaration-Historic-Places-Commemorating-the-Signing-of-the-Declaration-of-In__55838
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55838-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '48543'
     url: http://www.gutenberg.org/2009/agents/48543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55838#Signers-of-the-Declaration-Historic-Places-Commemorating-the-Signing-of-the-Declaration-of-In_
 gutenberg_issued: '2017-10-28'
 gutenberg_type: Text
 identifiers:
